@@ -1,0 +1,4 @@
+requests~=2.27.1
+tox
+tox-pyenv
+responses~=0.17.0
